@@ -5,6 +5,7 @@
 ### 1. Work
 
 1. Where do you work? / What’s your job? /What do you do? / Do you work or study? / /What work do you do? 
+
 2. Is it(company) a good place to work? 
 3. Would you like the place where you work to make any changes?
 4. Do you sometimes feel that you have to work too hard?
@@ -20,7 +21,7 @@
 
 
 
-## 2. Home
+### 2. Home
 
 1. Where are you living at the moment? / Please describe the place where you live. 
 2. How long have you lived there? 
@@ -45,7 +46,7 @@
 
 
 
-## 3. Hometown
+### 3. Hometown
 
 1. Where are you from? / Where is your hometown? / Which city are you living in? 
 2. Do you like your hometown? / What do you like most about your hometown?
@@ -61,7 +62,7 @@
 
 
 
-## 4. Staying up late
+### 4. Staying up late
 
 1. Did you stay up late when you were a child? 
 2. After a late night, how do you feel the next morning? / How do you feel when you have stayed up late the night before? 
@@ -81,16 +82,16 @@
 
 
 
-## 6. Small businesses
+### 6. Small businesses
 
 1. Are there many small businesses where you live?
-2. Do you prefer to buy things from a large company or small business?
+2. Do you prefer to buy things from a large company or a small business?
 3. Have you ever worked for a small business?
 4. Would you like to start your own small business one day? 
 
 
 
-## 7. Jewelry
+### 7. Jewelry
 
 1. How often do you wear jewelry? /Do you often wear jewelry?
 2. What type of jewelry do you like to buy? Have you ever bought jewelry for someone else? / Do you usually buy jewelry?
@@ -98,37 +99,24 @@
 
 
 
-## 8. Chocolate
-
-1. How often do you eat chocolate? /Do you like eating chocolate? Why or why not? (高频)
-2. Do you think it is good to use chocolate as gifts to others?
-3. Did you like chocolate when you were a child? 
-4. Why do you think chocolate is so popular in many parts of the world?
-5. What’s your favorite flavour?
-
-
-
-## 9. Outer space and stars
-
-1. Have you ever learnt anything about space and the stars when you were at school?
-2. Would you like to find out more about space and the stars?
-3. Do you enjoy watching science-fiction films/movies set in space?
-4. Do you want to go into outer space in the future? 
-
-
-
-## 10. Library
-
-1. How often do you visit a library? / Do you often go to the library?/What do you usually do in the library?
-2. Would you ever like to work in a library? 
-3. Did you use a library more when you were younger? / Did you go to the library when you were a kid?
-4. How common is it for children to visit libraries in your country? / Do Chinese kids often go to the library? 
-
-
-
 
 
 ## Part2
+
+1. Describe a sports program you enjoy watching
+2. Describe an interesting job that you want to have in the future
+3. Describe an important decision that you made
+4. Describe a famous person you are interested in 
+5. Describe an occasion when you spent time with a young child
+6. Describe a happy experience from your childhood that you remember
+7. Describe the game you enjoyed playing when you were younger
+8. Describe an activity you enjoyed in your free time when you were young
+9. Describe an exciting adventure you would like to take in the future
+10. Describe a piece of clothing you enjoy wearing
+
+
+
+
 
 
 ## Part3
