@@ -85,7 +85,7 @@
 ### 6. Small businesses
 
 1. Are there many small businesses where you live?
-2. Do you prefer to buy things from a large company or a small business?
+2. Do you prefer to buy things from a large company or small business?
 3. Have you ever worked for a small business?
 4. Would you like to start your own small business one day? 
 
@@ -96,6 +96,34 @@
 1. How often do you wear jewelry? /Do you often wear jewelry?
 2. What type of jewelry do you like to buy? Have you ever bought jewelry for someone else? / Do you usually buy jewelry?
 3. Why do you think some people keep a piece of jewelry for a long time? 
+
+
+
+## 8. Chocolate
+
+1. How often do you eat chocolate? /Do you like eating chocolate? Why or why not?
+2. Do you think it is good to use chocolate as gifts to others?  
+3. Did you like chocolate when you were a child?  
+4. Why do you think chocolate is so popular in many parts of the world?  
+5. What’s your favorite flavour?
+
+
+
+## 9. Outer space and stars
+
+1. Have you ever learnt anything about space and the stars when you were at school?  
+2. Would you like to find out more about space and the stars?  
+3. Do you enjoy watching science-fiction films/movies set in space?  
+4. Do you want to go into outer space in the future?  
+
+
+
+## 10. Library
+
+1. How often do you visit a library? / Do you often go to the library?/What do you usually do in the library?  
+2. Would you ever like to work in a library?  
+3. Did you use a library more when you were younger? / Did you go to the library when you were a kid?  
+4. How common is it for children to visit libraries in your country? / Do Chinese kids often go to the library?  
 
 
 
